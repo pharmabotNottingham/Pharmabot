@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "counselling-3-orlp",
+  "private_key_id": "ffda2e217e8af641d484e841ee707be4ac2637a4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCOIFMjbZiaDAyQ\n1BzmjpjXfYW9I6+hSon7SIDbYiMIFFgaMeRo1sltqbRXGnuzfi+TiOqfJorxVYIU\nAnr/pjQvpEEoqXjrvUJSbzZC2I6hsglWYCVnxEW5ozk0fGOD8lIbqa0wCshu88IS\nf/lnj+N64HnJW+Fsen3LIz3hNwCsZiqcG+E8cvIUwFYko+d/blp8LsPkRHdqMARc\nBAtlhWjKCoPGGw3FA9+eC7Uf7RtM6Vaw6ausK2XCVaoe2CLChMsGr/Xro2oqvVTc\nSOw6ICHkYqOcAHCfJpnFFgcNFuxSooQ8dATkT951dX3ifFRmWiyLP3jiNW2u+q42\nI1x+5jNzAgMBAAECggEADhOtvsRD1i71iA5SP624/elZt5zGVpNwH82tezOScUiE\n9cpvEck2t/nHU5p0zReyKHE25J60w7SqueBv0UyWpG9aFGgKT4MP0H1hlcGNCWV9\nkkR0mZbLKljvbHKAVf9h8/APp/X+P/fWhyGNkNA9TjYK9sKQc1k27PznfwKFIQ4M\n25z652wfGA0dTaGOMBcc58UaoZaGoU5p2ewr5QnKpkfbjcVx3ZG5vHAroyCHCYeH\noQP1h3ZKgqfiyGLiqpSf0bjwV3xmo7XJW4nNKXVJXpH06dEmyYNhhv+EMzaQKkRo\nDneQ6FGci/hrd9QcpsIiKNmB56AX4YAocMBoCYe/gQKBgQDFApFqRYRc4j8Ux/O7\nrAu90Mbeijv/xFMfd7nwMDuTiy04QAgTQ/aPmamb9+SZHXWjOZNU88zHQ+Ugq5oB\nnRF5ZkKdURKwOu06teeTXOmcS+cioDCiB/p5b0CLC4ctbXrELQqUxW3FYq66lI8R\nhQIBH6JCNGq6XvjPBi+EOAs/8wKBgQC4rr7asmUAI95wUN242DZjv5wg3GYsPXCE\nuicBVwlc+IBwewL8FsfzoC5mLx0l7qfWKpodvw/BOsZgouC+oUW2SLSZ7MsNE65p\nOCwyGPju9SV5HNvW7N+tSSkbLd9LUrF2B/D5ReEdA5P996nbhUyZ/8A0kEy3rLfU\nAY8cdPGegQKBgFcolbDQZIi7R3EoLPqAWQl3DiRyP60d7DBlxYsvq4vQ7QaPvYLY\ndIJ/Vvw7pZTf5aV62WWiHpyhuwLDKHVCSfLNfPcgYQY6a62nwHX/ixKsueslt55X\nrUaAI6vgQ8OjRcb4rk+3MKM8z1SYWNtFXuekWSK1Eeq2DZl5gRgbu05lAoGAc+Dp\nTc27g9/9tRl4VYAMeIAElbXUwhN240DuMnALJvOhm3IDyGr+4QVzt5f+QQvC8aVf\neCSm3QZk7MOmItaMKDjsYNxr93OO7uRZDsIOh9j3v0t1QSD1pAQQr8YTom5rfPS0\npaPMAOl61VKtmFjGXKZVUmXsTR8pZPPpeOCDroECgYEAj+oKGRWtqQlS3eifxau6\nY0Fy9Cn43W+qufGLWWXRsuV/tZ7g6XzDdT2vools7IPmUIjvHVigk+TTqvzrUzh6\nrAvxM6k6/pdut0juLV1E5lxz+VaNdS3KgIurH+Wohba+hNwRMHos1N8pevLiPNa/\nby9gA3C7kRs/TQO/rMBA8Io=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pharmabot@counselling-3-orlp.iam.gserviceaccount.com",
+  "client_id": "105964189235098402485",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pharmabot%40counselling-3-orlp.iam.gserviceaccount.com"
+}

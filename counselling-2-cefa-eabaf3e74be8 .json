@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "counselling-2-cefa",
+  "private_key_id": "eabaf3e74be85d79bfd763500f7488d22624b2a8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDH8vV6WNxhJN+Z\nhnDmI1kgaqW0BFYa8pD0+92Nj3npgTQIL80xHWaaEGlh/R0MSV5NeLCVUSmqQ+/Z\nit4Dail6K5+1l9Kfp1cOXuhNt3I013CC6k22M4/+nwHxiI0OVtigpCtmwpnsg0R0\nzEo6YCjRsyBXjlPc/d9VdkIupbzDA9QmsMJwdPEv0CWr1ziBSKEzMvJQR/z/TuJN\nh1NnruVDaWL8SGMo+7AkdWIv1H02p4iufOzi/zm4A9ME/z68lRNvrNeZ5gzSXj4K\nkMTfbdXMPjYIEIykNykrrJUcun35RYls4nm6aF+dc8OwU/PL9pkGTiY6BcHa7z/F\n8oObqecRAgMBAAECggEANNYI9CmjIrCBvan/D3Frzdsgqm8y6bALihE8PHobdw7D\nVx56lG32fOO1VUVzdZm1p7cqwmpOHkYRjWTawgA9saDxdSUHbVTk9lEyBcdiEICV\npKKRooIBnQEbnF2/GHjuiZSYO3FVB2CwqESLoN1kK/WvqDNeCdm0OHslhfoZ5VYX\nqBXQsS0wsPztraTYOQ5Wj6MolzAgTL9A0fqvU3P9ooV2nI9+wC8j6x3zGsnOYI2k\n3NAkTpzRL0Ut4QBlrSp9kxYXWwFbSarOfWByeRfjALX/GpIBRl/qp++KYTpwmFrZ\nca3EuyiZvypTjUUOM5WsrTpHtZnYAJJjWSMW9cAH2QKBgQD2j1DzFZkxKRTTHO57\nUadWSHP7fDyqkGuUjGOwUhF2NlqtxPJfUhNXIb3DCgEySpg8jt/dQSCe4SNTyrc9\nBA6FHN3zBMjDifd/CofWC+52FYU12UcktWYeI0wLvGHRt0LJV4TCLJyam15mRwhW\nSrSVCpS23iQ8/892jRkd/cfVhwKBgQDPmsgw7txQVBuiWDyG77uNOxPAiuQJx61T\nPDlZBeWOLMsqYWATv/8j98fCu46CFZkEmZUP4yGwoI+1n7agoxa7TCk8X4hk/9Ge\nruzg2VED4JJGGD37Rv1+N/kk/j0mnTI76/y9L+EK7pHZ0z74K41IgDBywraY1eKt\nWYL6ZyyEpwKBgAzuNTOaZV9TpTjxInyrKph20kZVHKVhT5MJzcyYcTv+28CTPJbN\nKiB+r4IEC04E5Xj/kTP8T2alrgGd9wAnL0/B1M4C6TiACs/J0JfkJkxhEoxhab6+\nGK3p8foHliW2c7U1dsvsJQZisY+xl/lWj6PlWyk/+yyLyeiQu8l73rgPAoGBAMXd\nIbvxjC1LXGMocdexmTGMAtFaDul7VCiml4nPYvBUpPYphKaOMSAYwl1I4RP+fa6y\nqi1QLwXmodFa/XawubOdbRfLfXW1lBYHZmEO/nYRjZgc9sYM7QFlW6H0ZlftLrmJ\nu4KcpYIDyyKuga+J4sgc1RAroFieUcMiMwFxYC61AoGAML0oEsVgD7JOewtijlKW\ndV1MoHq59l9+6cJzxAOQsteE7zgKQy9LjVp41k0GBxjpK8vpDvoaz7R4uFUYbo9m\nhs1o1yo7wX2gUbP2jrM7A7hFCCjLLYSv+Svld0NwoF2sfWNAplUH8uWy/K3sTWD7\nHrGgwi1saivHFtJmRWZ6wVc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "counsellingbot2@counselling-2-cefa.iam.gserviceaccount.com",
+  "client_id": "111230593200837059974",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/counsellingbot2%40counselling-2-cefa.iam.gserviceaccount.com"
+}
